@@ -30,4 +30,4 @@ Model Evaluation: Learn how to use basic metrics to evaluate model performance a
 
 Kaggle dataset: Learn real data on Kaggle construction and get a deep understanding of the issues and precautions in making datasets.
 
-Work done during the machine learning internship at Prodigy Infotech.
+
