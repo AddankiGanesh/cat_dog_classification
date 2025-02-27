@@ -1,22 +1,8 @@
-# Cats and Dogs Classifier
+# Cats and Dogs Classification Using Machine Learning
 
 Implementation of support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
 
 Project Description: Using the Kaggle dataset to use a Support Vector Machine (SVM) to classify images of cats and dogs. The goal is to develop a robust image classification model that can distinguish between these two groups.
-
-Full instructions:
-
-Data Analysis: Identify and understand patterns in the Kaggle dataset containing cat and dog images.
-
-Data preprocessing: Perform preprocessing operations such as image resizing, normalization, and classification of datasets for training and testing.
-
-Feature extraction: Extract relevant features from the image as input to the SVM model.
-
-Model implementation: Design and train a support vector machine model for image classification using feature selection.
-
-Model evaluation: Evaluate the model's performance in a separate test by determining parameters such as accuracy, precision, recall, and F1 score.
-
-Fine-tuning: Explore hyperparameter tuning to optimize the SVM model for better performance.
 
 Knowledge gained:
 
